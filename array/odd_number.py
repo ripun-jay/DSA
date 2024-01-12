@@ -5,3 +5,7 @@ if max_limit % 2 == 0:
 else:
     series =  [((2*i)+1) for i in range(((max_limit//2)+1))]
 print(series)
+
+
+# to check ascii value of char 
+ord("5")
