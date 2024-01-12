@@ -9,3 +9,4 @@ print(series)
 
 # to check ascii value of char 
 ord("5")
+# why not ord(0)
